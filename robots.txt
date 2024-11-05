@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imituetu.github.io/NOm/sitemap_index.txt
+Sitemap: https://imituetu.github.io/Yrn/sitemap_index.txt
+Sitemap: https://imituetu.github.io/gwn/sitemap_index.txt
+Sitemap: https://imituetu.github.io/tbP/sitemap_index.txt
